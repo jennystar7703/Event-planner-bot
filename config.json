@@ -1,4 +1,11 @@
 {
-  "prefix": "YOUR_BOT_PREFIX_HERE",
-  "invite_link": "YOUR_BOT_INVITE_LINK_HERE"
+  "prefix": "/",
+  "invite_link": "YOUR_BOT_INVITE_LINK_HERE",
+  "API_KEY": "",
+  "BOT_TOKEN": "MTE4OTAyNDA4Nzc0MjM0OTM4Mw.G0xy3F.jnVZm6Lgn1P_7lj-a7vHSvzN1-0sH6AESVO1Qo",
+  "OPENAI_API_KEY": "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",
+  "HEADERS": {
+      "Authorization": "Bearer ",
+      "Content-Type": "application/json"
+  }
 }
